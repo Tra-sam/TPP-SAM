@@ -13,3 +13,5 @@ We want to thank ![Segment Anything Model](https://github.com/facebookresearch/s
 You can find the pre-trained model ViT-H [here](https://pan.baidu.com/s/1lTuAIDK82k7S4_C9GIewhQ). Code:kw1m
 
 
+## Note
+The Rprastermap given in DATA represents the initial road positive feature points constrained by the RCC layer.
