@@ -7,6 +7,9 @@
 
 
 
-
 ## Acknowledgement
 We want to thank ![Segment Anything Model](https://github.com/facebookresearch/segment-anything) for its open source code and inspiration for this research.
+
+You can find the pre-trained model ViT-H [here](https://pan.baidu.com/s/1lTuAIDK82k7S4_C9GIewhQ) Code:kw1m
+
+
